@@ -1,7 +1,0 @@
-v 4
-file . "tb_encoder.vhd" "e84b99c731db71467bba54ecac559b8fd4e3cd0d" "20251225145403.595":
-  entity tb_encoder_8to3 at 1( 0) + 1 on 21;
-  architecture sim of tb_encoder_8to3 at 7( 99) + 0 on 22;
-file . "encoder.vhd" "734860d0b4bcdfb00ff9bb16a4e66612514499f5" "20251225145403.581":
-  entity encoder_8to3 at 1( 0) + 1 on 19;
-  architecture rtl of encoder_8to3 at 11( 242) + 0 on 20;
