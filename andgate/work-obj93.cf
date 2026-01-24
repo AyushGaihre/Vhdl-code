@@ -1,7 +1,0 @@
-v 4
-file . ".\tb_and_gate.vhd" "4134d109505e2db6dbc188f86fddae33cd0a221c" "20251127064325.855":
-  entity tb_and_gate at 1( 0) + 0 on 13;
-  architecture sim of tb_and_gate at 7( 79) + 0 on 14;
-file . "and_gate.vhd" "e7c13b7511ac8b7f49bda2e5e1f31ddb76ca5e1b" "20251127064226.992":
-  entity and_gate at 1( 0) + 0 on 11;
-  architecture beh of and_gate at 11( 141) + 0 on 12;
